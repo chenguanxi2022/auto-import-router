@@ -1,0 +1,29 @@
+{
+  "name": "auto-import-router",
+  "version": "1.0.0",
+  "description": "自动引入router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenguanxi2022/auto-import-router.git"
+  },
+  "keywords": [
+    "auto",
+    "import",
+    "router"
+  ],
+  "author": "guanxi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenguanxi2022/auto-import-router/issues"
+  },
+  "homepage": "https://github.com/chenguanxi2022/auto-import-router#readme",
+  "dependencies": {
+    "@koa/router": "^12.0.0",
+    "koa-body": "^6.0.1",
+    "koa-json": "^2.0.2"
+  }
+}
